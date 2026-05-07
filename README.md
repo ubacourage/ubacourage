@@ -14,12 +14,24 @@ My cybersecurity training and practical labs have strengthened my interest in pu
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis with Wireshark | Network Traffic Analysis Lab |
 | Packet Inspection and Protocol Analysis | Network Traffic Analysis Lab |
-| Threat Detection and Alert Monitoring | Wazuh |
 | Linux System Administration (Ubuntu) | Ubuntu |
-| Intrusion Detection with Suricata | Detection & Monitoring |
-| Log Monitoring and Security Analysis | Wazuh |
 | TCP/IP and Network Protocol Analysis | Network Traffic Analysis Lab |
-| Security Monitoring Fundamentals | SOC Fundamentals |
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
+
+## Certifications
+
+TS Academy 
+
+## Projects
+
+Network Traffic Analysis Lab
 <!--
 **ubacourage/ubacourage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
