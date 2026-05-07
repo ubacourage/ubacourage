@@ -2,14 +2,25 @@
 
 <a href="https://linkedin.com/in/courage-uba-b510a822b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
+<!-- Brief Introduction -->
 I am a graduate with a profound interest in cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 My cybersecurity training and practical labs have strengthened my interest in pursuing a SOC Analyst career path.
 
-<## Skills!--
+## Skills
+
+| Skill                                            | Associated Project |
+|-----------------------------------------------|----------------------------|
+| Network Traffic Analysis with Wireshark | Network Traffic Analysis Lab |
+| Packet Inspection and Protocol Analysis | Network Traffic Analysis Lab |
+| Threat Detection and Alert Monitoring | Wazuh |
+| Linux System Administration (Ubuntu) | Ubuntu |
+| Intrusion Detection with Suricata | Detection & Monitoring |
+| Log Monitoring and Security Analysis | Wazuh |
+| TCP/IP and Network Protocol Analysis | Network Traffic Analysis Lab |
+| Security Monitoring Fundamentals | SOC Fundamentals |
+<!--
 **ubacourage/ubacourage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
