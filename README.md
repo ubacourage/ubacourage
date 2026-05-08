@@ -13,7 +13,7 @@ My cybersecurity training and practical labs have strengthened my interest in pu
 
 | Skill                                            | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Analysis with Wireshark | Network Traffic Analysis Lab |
+| Network Traffic Analysis with Wireshark | <a href="https://github.com/ubacourage/Network-Traffic-Analysis-Lab/blob/main/README.md"> Network Traffic Analysis Lab </a> |
 | Packet Inspection and Protocol Analysis | Network Traffic Analysis Lab |
 | Linux System Administration (Ubuntu) | Ubuntu |
 | TCP/IP and Network Protocol Analysis | Network Traffic Analysis Lab |
