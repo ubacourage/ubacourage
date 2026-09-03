@@ -57,7 +57,7 @@ and practical experience, with the goal of becoming a **SOC Tier 1 Analyst**.
   <a href="https://linkedin.com/in/courage-uba-b510a822b">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p
+</p>
 
 
 <!--
