@@ -50,7 +50,7 @@ and practical experience, with the goal of becoming a **SOC Tier 1 Analyst**.
 | Linux System Administration (Ubuntu, Kali) | All Projects |
 
 ## 🎓 Certifications
-[![TS Academy Certificate](https://img.shields.io/badge/TS_Academy-Cybersecurity_Certificate-blue?style=for-the-badge)](paste-link-here)
+[![TS Academy Certificate](https://img.shields.io/badge/TS_Academy-Cybersecurity_Certificate-blue?style=for-the-badge)]([paste-link-here](https://drive.google.com/file/d/1rlZ5y1pGtPUEhc5Ekk88ePDKpgrkmagd/view?usp=sharing))
 
 ## 📫 Let's Connect
 <p align="left">
