@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm Courage 👋</h1>
-<h3 align="center">Aspiring SOC Analyst focused on threat detection, security monitoring, network analysis, and incident response.</h3>
+<h1 align="center"> 👋 Hi, I'm Courage Uba👋</h1>
+<h3 align="center">🛡️ Aspiring SOC Analyst focused on Threat Detection, Security Monitoring, Network Analysis, and Incident Response.
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/courage-uba-b510a822b">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+I'm a cybersecurity enthusiast focused on building practical **Blue Team** security labs that simulate real-world **Security Operations Center (SOC)** environments.
+My goal is to grow into a SOC Analyst by developing hands-on experience in monitoring, detecting, investigating, and responding to cyber threats using open-source security tools and industry-standard security practices.
 
 I'm a graduate with a strong interest in cybersecurity and a passion for 
 solving complex, real-world security problems. I build hands-on labs and 
