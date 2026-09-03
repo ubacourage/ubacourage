@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Courage 👋</h1>
-<h3 align="center">Aspiring SOC Tier 1 Analyst | Cybersecurity Enthusiast</h3>
+<h3 align="center">Aspiring SOC Analyst focused on threat detection, security monitoring, network analysis, and incident response.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/courage-uba-b510a822b">
