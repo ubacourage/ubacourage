@@ -50,8 +50,7 @@ and practical experience, with the goal of becoming a **SOC Tier 1 Analyst**.
 | Linux System Administration (Ubuntu, Kali) | All Projects |
 
 ## 🎓 Certifications
-*(Add specifics here — e.g., "CompTIA Security+ — In Progress" or 
-whatever TS Academy actually covers, so it reads clearly to a recruiter)*
+[![TS Academy Certificate](https://img.shields.io/badge/TS_Academy-Cybersecurity_Certificate-blue?style=for-the-badge)](paste-link-here)
 
 ## 📫 Let's Connect
 <p align="left">
