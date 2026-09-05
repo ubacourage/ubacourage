@@ -47,9 +47,8 @@ and practical experience, with the goal of becoming a **SOC Tier 1 Analyst**.
 | IDS Rule Configuration & Tuning | Network Intrusion Detection System |
 | Active Response / Automated Threat Mitigation | Network Intrusion Detection System |
 | Social Engineering & Phishing Awareness | Phishing Awareness Training |
-| Network Traffic Analysis with Wireshark | Network Traffic Analysis Lab |
-| Packet Inspection and Protocol Analysis | Network Traffic Analysis Lab |
-| TCP/IP and Network Protocol Analysis | Network Traffic Analysis Lab |
+| Network Traffic Analysis with Wireshark | Trickbot Malware Traffic Analysis Lab |
+| TCP/IP and Network Protocol Analysis | Trickbot Malware Traffic Analysis Lab |
 | Linux System Administration (Ubuntu, Kali) | All Projects |
 
 ## 🎓 Certifications
