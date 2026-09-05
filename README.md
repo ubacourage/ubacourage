@@ -37,7 +37,7 @@ and practical experience, with the goal of becoming a **SOC Tier 1 Analyst**.
 |---|---|---|
 | 🛡️ [Network Intrusion Detection System](https://github.com/ubacourage/CodeAlpha_Network_Intrusion_Detection_System) | Built a NIDS using Suricata + Wazuh with custom detection rules and automated active response (auto-blocking attacker IPs) | Suricata, Wazuh, SIEM, IDS Rule Tuning, Active Response |
 | 🎣 [Phishing Awareness Training](https://github.com/ubacourage/CodeAlpha_Phishing_Awareness_Training) | Designed a training presentation educating users on identifying and avoiding phishing attacks | Social Engineering Awareness, Security Training |
-| 📡 [Malware Traffic Analysis Trickbot]((https://github.com/ubacourage/Malware_Traffic_Analysis_Trickbot)) | Hands-on packet capture and protocol analysis using Wireshark | Wireshark, TCP/IP, Packet Inspection |
+| 📡 [Malware_Traffic_Analysis_Trickbot]((https://github.com/ubacourage/Malware_Traffic_Analysis_Trickbot)) | Hands-on packet capture and protocol analysis using Wireshark | Wireshark, TCP/IP, Packet Inspection |
 
 ## 📚 Skills
 
